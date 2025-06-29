@@ -1,2 +1,2 @@
 # Yato
-A web-app social media to communicate with peers without cookies / data-stealing / ads.
+My first ever project, I was in first year of high-school. Facebook-like social media platform written in php.
